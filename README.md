@@ -22,7 +22,7 @@ Functions are plain `snake_case` however they should always be prefixed by the t
 
 ###### §1.2
 For example, in [ctalk](https://github.com/remi-nolan/ctools/blob/main/ctalk/ctalk.h), all of the procedures that operate on a `cstream_t` are prefixed with `cstream_`.
-Additionally, these procedures all take a `cstream_t` (or a pointer to one) as the first argument; I commonly refer to this as the operative argument.
+Additionally, these procedures all take a `cstream_t` (or a pointer to one) as the first argument; this as referred to as the operative argument.
 
 ###### §1.3
 For example:
